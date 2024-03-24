@@ -1,0 +1,31 @@
+
+
+@{
+    Layout = null;
+    ViewData["title"] = "View Session";
+    var name = ViewBag.Name;
+    var id = ViewBag.Id;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title></title>
+</head>
+<body>
+<div>
+    <h1>
+        @ViewData["title"]
+    </h1>
+    <p>
+        Using session to get the information!!!
+    </p>
+    <div>
+        
+         <p>Name:@name</p>
+       <p> Id : @id</p>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+@{
+}
+ <form method="post" action="@Url.Action("SetHiddenFieldValue", "HiddenField")">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <input id="Id" name="Id" type="hidden" value="101" >
+        <br>
+        <input type="submit"  value="submit"  >
+   </form>

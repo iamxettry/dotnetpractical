@@ -1,0 +1,6 @@
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/bin/Debug/program3.exe
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/bin/Debug/program3.pdb
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/obj/Debug/program3.csproj.AssemblyReference.cache
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/obj/Debug/program3.csproj.CoreCompileInputs.cache
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/obj/Debug/program3.exe
+/media/rch/New Volume/college/6thSem/Notes/Net Centric computing/DotNet/program3/program3/obj/Debug/program3.pdb

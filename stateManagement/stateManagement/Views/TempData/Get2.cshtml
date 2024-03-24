@@ -1,0 +1,9 @@
+@{
+    ViewData["title"] = "Get2";
+    var userId = TempData["userId"]?.ToString();
+}
+<h4> Data from Get2</h4>
+<p>User Id : @userId</p>
+
+<a asp-action="Get1">Get 1</a>
+<a asp-action="Get2">Get 2</a>
